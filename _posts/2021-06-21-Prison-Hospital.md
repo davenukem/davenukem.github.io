@@ -5,6 +5,7 @@ categories:
 tags:
   - Medical
   - Opinion
+layout: single
 classes: wide
 excerpt: "A shallow dive into being 'trapped' in the hospital against your will. Why and how is it able to happen?" 
 ---
