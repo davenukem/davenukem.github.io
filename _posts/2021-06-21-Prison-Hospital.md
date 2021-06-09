@@ -1,13 +1,13 @@
 ---
+
+classes: wide
 title: "When the Hospital Becomes Your Prison"
+excerpt: "A shallow dive into being 'trapped' in the hospital against your will. Why and how is it able to happen?"
 categories:
   - Blog
 tags:
   - Medical
-  - Opinion
-layout: single
-classes: wide
-excerpt: "A shallow dive into being 'trapped' in the hospital against your will. Why and how is it able to happen?" 
+  - Opinion 
 ---
 
 For over a year, I have had the not so unique [^1] experience of volunteering at one of New York's largest hospitals. I thought it would be a great way to get some more recent medical experience given I had been working in construction for the last 6 years. Because I had volunteered extensively at doctor offices, hospitals, and as an EMT-B I didn't have much hope for the experience to be very enriching. Fortunately, I was wrong. 
