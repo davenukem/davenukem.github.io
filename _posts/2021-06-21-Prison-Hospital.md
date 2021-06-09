@@ -10,8 +10,6 @@ classes: wide
 excerpt: "A shallow dive into being 'trapped' in the hospital against your will. Why and how is it able to happen?" 
 ---
 
-# When the Hospital Becomes Your Prison
-
 For over a year, I have had the not so unique [^1] experience of volunteering at one of New York's largest hospitals. I thought it would be a great way to get some more recent medical experience given I had been working in construction for the last 6 years. Because I had volunteered extensively at doctor offices, hospitals, and as an EMT-B I didn't have much hope for the experience to be very enriching. Fortunately, I was wrong. 
 
 During the month long period of background checks, interviews, and waiting for an available time slot to be trained in my assigned unit I built up quite a few expectations. Given the reputation of the hospital and my dealing with "big companies" in my professional life, I envisioned an efficient, well oiled machine. Instead, I was met with a Rube Goldberg machine where most mundane of actions seem to involve 4 or more parties. I never got onboarded or trained, I never built any strong connections with the staff, but I did learn an enormous amount about medical bureaucracy. 
